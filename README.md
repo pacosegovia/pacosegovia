@@ -1,4 +1,6 @@
-### Hi there 👋
+![The real Spagett!](https://github.com/pacosegovia/pacosegovia/blob/master/spagett.webp)
+
+
 
 <!--
 **pacosegovia/pacosegovia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
