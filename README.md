@@ -1,4 +1,4 @@
-![The real Spagett!](https://github.com/pacosegovia/pacosegovia/blob/master/spagett.webp)
+![The real Spagett!](https://github.com/pacosegovia/pacosegovia/blob/master/spagett.gif)
 
 
 
