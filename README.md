@@ -2,11 +2,23 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-05122A?style=flat&logo=SASS)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A?style=flat&logo=tailwind-cs)&nbsp;
+![Vite](https://img.shields.io/badge/vite-05122A?style=flat&logo=vite)&nbsp;
+![Astro](https://img.shields.io/badge/astro-05122A?style=flat&logo=astro)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Angular](https://img.shields.io/badge/angular-05122A?style=flat&logo=angular)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-05122A?style=flat&logo=mui)&nbsp;
+![Vuetify](https://img.shields.io/badge/Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![Ionic](https://img.shields.io/badge/Ionic-05122A?style=flat&logo=Ionic)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
